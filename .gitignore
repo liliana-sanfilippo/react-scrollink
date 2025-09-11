@@ -1,2 +1,5 @@
 /.idea/
 /liliana-sanfilippo-react-link-0.0.1.tgz
+/dist
+node_modules
+/package-lock.json
